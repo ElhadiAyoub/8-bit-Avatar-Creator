@@ -1,2 +1,2 @@
-# 8bit-Avatar-Creator
+# 8-bit-Avatar-Creator
 A cool retro style 8bit avatar creator.
